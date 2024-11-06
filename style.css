@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-image: url("public/uni.jpg");
+    background-image: url("uni.jpg");
     background-size: cover;
     height: 100vh;
 }
